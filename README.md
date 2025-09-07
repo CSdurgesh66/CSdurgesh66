@@ -1,4 +1,5 @@
-# Hi, I’m Durgesh
+# Hi there 👋
+I am Durgesh Kumar.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/durgesh-baghel-275aa9295) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:durgesh42416@gmail.com) 
