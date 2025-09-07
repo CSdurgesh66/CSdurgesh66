@@ -1,6 +1,4 @@
 # Hi, I’m Durgesh
-I’m a Full-Stack Developer and B.Tech CSE (Final Year) student with a passion for building impactful, scalable applications.<br>I specialize in the MERN stack and enjoy working on projects that blend clean architecture with real-world problem solving.
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/durgesh-baghel-275aa9295) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:durgesh42416@gmail.com) 
